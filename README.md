@@ -1,5 +1,8 @@
 # vue_test2.0
 
+
+douban movie vue 通过调用豆瓣正在上映的电影接口，做的一个vue 的demo 链接 ：https://benchenchuang.github.io/douban-movie/#/
+
 > A Vue.js project
 
 ## Build Setup
